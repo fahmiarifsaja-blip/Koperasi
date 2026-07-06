@@ -3,6 +3,6 @@ compatibility_date = "2026-07-01"
 pages_build_output_dir = "."
 
 [[d1_databases]]
-binding = "DB"
+binding = "koperasi"
 database_name = "koperasi_db"
-database_id = "ISI_DATABASE_ID_D1_ANDA"
+database_id = "d30c752b-894c-47e1-b848-f4caf6018115"
